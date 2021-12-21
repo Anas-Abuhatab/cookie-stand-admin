@@ -1,1 +1,1 @@
-PR : [https://github.com/Anas-Abuhatab/cookie-stand-admin/pull/1](https://github.com/Anas-Abuhatab/cookie-stand-admin/pull/1)
+PR : [https://github.com/Anas-Abuhatab/cookie-stand-admin/pull/2](https://github.com/Anas-Abuhatab/cookie-stand-admin/pull/2)
